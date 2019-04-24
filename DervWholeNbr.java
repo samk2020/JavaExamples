@@ -1,10 +1,9 @@
 /* SamK2020 
-* this is a sample code to demonstrate derivative calculation of whole
-* numbers using the power rule and product rule, other variables like
-* trigonometry, fractions, reimann sums, etc not working. 
+* this is a sample code to demonstrate derivative 
+* calculation of whole numbers using the power rule only 
 */  
 import java.util.Scanner;
-public class DervWholeNbr {
+public class PowerRule {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
